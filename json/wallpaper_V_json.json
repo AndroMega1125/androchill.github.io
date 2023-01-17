@@ -1,0 +1,583 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "backup_ads_rewards":"",
+
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"null",
+
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      
+      "status_app": "0",
+      "link_redirect": "https://",
+
+      "on_off_category":"1"
+    }
+  ],
+
+
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper BTS RM",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill.walljsonx"
+    }
+  ],
+
+
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BTS V",
+      "image": "https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%201.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "BTS V Aesthetic",
+      "image": "https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%201.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "BTS V Blue Hair",
+      "image": "https://andromega1125.github.io/wallpaper/V/V%20Blue%20Hair/V%20Blue%20Hair%201.png"
+
+    },
+    {
+      "id": 4,
+      "name_category": "BTS V Red Hair",
+      "image": "https://andromega1125.github.io/wallpaper/V/V%20Red%20Hair/V%20Red%20Hair%201.jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "BTS V Vintage",
+      "image": "https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%201.jpg"
+
+    }
+  ],
+
+
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 1",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%201.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "BTS V Aesthetic",
+      "title": "V Aesthetic 2",
+      "image": "https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%202.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 3",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%203.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 4",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%204.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 5",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%205.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 6",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%206.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 7",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%207.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 8",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%208.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 9",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%209.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 10",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%2010.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 11",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%2011.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 12",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%2012.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 13",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%2013.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 14",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%2014.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 15",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%2015.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 16",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%2016.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 17",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%2017.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 18",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%2018.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 19",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%2019.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "BTS V Aesthetic",
+      "title":"V Aesthetic 20",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Aesthetic/V%20Aesthetic%2020.jpg"
+    },
+    
+
+    {
+      "id":21,
+      "name_category": "BTS V",
+      "title":"V Biasa 1",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%201.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "BTS V",
+      "title":"V Biasa 2",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%202.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "BTS V",
+      "title":"V Biasa 3",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%203.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "BTS V",
+      "title":"V Biasa 4",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%204.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "BTS V",
+      "title":"V Biasa 5",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%205.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "BTS V",
+      "title":"V Biasa 6",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%206.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "BTS V",
+      "title":"V Biasa 7",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%207.png"
+    },
+    {
+      "id":28,
+      "name_category": "BTS V",
+      "title":"V Biasa 8",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%208.png"
+    },
+    {
+      "id":29,
+      "name_category": "BTS V",
+      "title":"V Biasa 9",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%209.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "BTS V",
+      "title":"V Biasa 10",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%2010.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "BTS V",
+      "title":"V Biasa 11",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%2011.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "BTS V",
+      "title":"V Biasa 12",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%2012.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "BTS V",
+      "title":"V Biasa 13",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%2013.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "BTS V",
+      "title":"V Biasa 14",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%2014.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "BTS V",
+      "title":"V Biasa 15",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%2015.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "BTS V",
+      "title":"V Biasa 16",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%2016.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "BTS V",
+      "title":"V Biasa 17",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%2017.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "BTS V",
+      "title":"V Biasa 18",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%2018.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "BTS V",
+      "title":"V Biasa 19",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%2019.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "BTS V",
+      "title":"V Biasa 20",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20biasa/V%20Biasa%2020.jpg"
+    },
+    
+
+    {
+      "id":41,
+      "name_category": "BTS V Blue Hair",
+      "title":"V Blue Hair 1",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Blue%20Hair/V%20Blue%20Hair%201.png"
+    },
+    {
+      "id":42,
+      "name_category": "BTS V Blue Hair",
+      "title":"V Blue Hair 2",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Blue%20Hair/V%20Blue%20Hair%202.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "BTS V Blue Hair",
+      "title":"V Blue Hair 3",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Blue%20Hair/V%20Blue%20Hair%203.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "BTS V Blue Hair",
+      "title":"V Blue Hair 4",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Blue%20Hair/V%20Blue%20Hair%204.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "BTS V Blue Hair",
+      "title":"V Blue Hair 5",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Blue%20Hair/V%20Blue%20Hair%205.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "BTS V Blue Hair",
+      "title":"V Blue Hair 6",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Blue%20Hair/V%20Blue%20Hair%206.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "BTS V Blue Hair",
+      "title":"V Blue Hair 7",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Blue%20Hair/V%20Blue%20Hair%207.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "BTS V Blue Hair",
+      "title":"V Blue Hair 8",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Blue%20Hair/V%20Blue%20Hair%208.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "BTS V Blue Hair",
+      "title":"V Blue Hair 9",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Blue%20Hair/V%20Blue%20Hair%209.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "BTS V Blue Hair",
+      "title":"V Blue Hair 10",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Blue%20Hair/V%20Blue%20Hair%2010.jpg"
+    },
+
+
+    {
+      "id":51,
+      "name_category": "BTS V Red Hair",
+      "title":"V Red Hair 1",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Red%20Hair/V%20Red%20Hair%201.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "BTS V Red Hair",
+      "title":"V Red Hair 2",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Red%20Hair/V%20Red%20Hair%202.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "BTS V Red Hair",
+      "title":"V Red Hair 3",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Red%20Hair/V%20Red%20Hair%203.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "BTS V Red Hair",
+      "title":"V Red Hair 4",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Red%20Hair/V%20Red%20Hair%204.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "BTS V Red Hair",
+      "title":"V Red Hair 5",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Red%20Hair/V%20Red%20Hair%205.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "BTS V Red Hair",
+      "title":"V Red Hair 6",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Red%20Hair/V%20Red%20Hair%206.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "BTS V Red Hair",
+      "title":"V Red Hair 7",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Red%20Hair/V%20Red%20Hair%207.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "BTS V Red Hair",
+      "title":"V Red Hair 8",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Red%20Hair/V%20Red%20Hair%208.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "BTS V Red Hair",
+      "title":"V Red Hair 9",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Red%20Hair/V%20Red%20Hair%209.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "BTS V Red Hair",
+      "title":"V Red Hair 10",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Red%20Hair/V%20Red%20Hair%2010.jpg"
+    },
+
+
+    {
+      "id":61,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 1",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%201.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 2",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%202.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 3",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%203.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 4",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%204.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 5",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%205.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 6",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%206.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 7",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%207.jpg"
+    },
+    {
+      "id":68,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 8",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%208.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 9",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%209.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 10",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%2010.jpg"
+    },
+    {
+      "id":71,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 11",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%2012.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 12",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%2012.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 13",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%2013.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 14",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%2014.jpg"
+    },
+    {
+      "id":75,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 15",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%2015.jpg"
+    },
+    {
+      "id":76,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 16",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%2016.jpg"
+    },
+    {
+      "id":77,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 17",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%2017.jpg"
+    },
+    {
+      "id":78,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 18",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%2018.jpg"
+    },
+    {
+      "id":79,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 19",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%2019.jpg"
+    },
+    {
+      "id":80,
+      "name_category": "BTS V Vintage",
+      "title":"V Vintage 20",
+      "image":"https://andromega1125.github.io/wallpaper/V/V%20Vintage/V%20Vintage%2020.jpg"
+    }
+
+
+  ]
+}
