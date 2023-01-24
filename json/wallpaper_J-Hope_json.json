@@ -1,0 +1,513 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "backup_ads_rewards":"",
+
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"null",
+
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      
+      "status_app": "0",
+      "link_redirect": "https://",
+
+      "on_off_category":"1"
+    }
+  ],
+
+
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper BTS RM",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill.walljsonx"
+    }
+  ],
+
+
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BTS J-Hope",
+      "image": "https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%201.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "BTS J-Hope Aesthetic",
+      "image": "https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%201.png"
+
+    },
+    {
+      "id": 3,
+      "name_category": "BTS J-Hope Cute",
+      "image": "https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%201.jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "BTS J-Hope Vintage",
+      "image": "https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Vintage/Vintage%201.jpg"
+
+    }
+  ],
+
+
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 1",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%201.png"
+    },
+    {
+      "id": 2,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title": "J-Hope Aesthetic 2",
+      "image": "https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%202.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 3",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%203.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 4",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%204.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 5",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%205.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 6",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%206.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 7",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%207.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 8",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%208.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 9",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%209.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 10",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%2010.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 11",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%2011.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 12",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%2012.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 13",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%2013.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 14",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%2014.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 15",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%2015.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 16",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%2016.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 17",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%2017.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 18",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%2018.png"
+    },
+    {
+      "id":19,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 19",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%2019.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "BTS J-Hope Aesthetic",
+      "title":"J-Hope Aesthetic 20",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%2020.jpg"
+    },
+    
+
+    {
+      "id":21,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 1",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%201.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 2",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%202.png"
+    },
+    {
+      "id":23,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 3",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%203.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 4",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%204.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 5",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%205.png"
+    },
+    {
+      "id":26,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 6",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%206.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 7",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%207.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 8",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%208.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 9",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%209.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 10",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%2010.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 11",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%2011.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 12",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%2012.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 13",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%2013.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 14",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%2014.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 15",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%2015.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 16",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%2016.png"
+    },
+    {
+      "id":37,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 17",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%2017.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 18",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%2018.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 19",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%2019.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "BTS J-Hope",
+      "title":"J-Hope Biasa 20",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%2020.jpg"
+    },
+    
+
+    {
+      "id":41,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 1",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%201.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 2",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%202.png"
+    },
+    {
+      "id":43,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 3",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%203.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 4",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%204.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 5",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%205.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 6",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%206.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 7",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%207.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 8",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%208.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 9",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%209.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 10",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%2010.png"
+    },
+    {
+      "id":51,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 11",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%2011.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 12",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%2012.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 13",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%2013.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 14",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%2014.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 15",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%2015.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 16",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%2016.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 17",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%2017.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 18",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%2018.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 19",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%2019.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "BTS J-Hope Cute",
+      "title":"J-Hope Cute 20",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%2020.png"
+    },
+
+
+    {
+      "id":61,
+      "name_category": "BTS J-Hope Vintage",
+      "title":"J-Hope Vintage 1",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Vintage/Vintage%201.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "BTS J-Hope Vintage",
+      "title":"J-Hope Vintage 2",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Vintage/Vintage%202.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "BTS J-Hope Vintage",
+      "title":"J-Hope Vintage 3",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Vintage/Vintage%203.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "BTS J-Hope Vintage",
+      "title":"J-Hope Vintage 4",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Vintage/Vintage%204.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "BTS J-Hope Vintage",
+      "title":"J-Hope Vintage 5",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Vintage/Vintage%205.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "BTS J-Hope Vintage",
+      "title":"J-Hope Vintage 6",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Vintage/Vintage%206.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "BTS J-Hope Vintage",
+      "title":"J-Hope Vintage 7",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Vintage/Vintage%207.jpg"
+    },
+    {
+      "id":68,
+      "name_category": "BTS J-Hope Vintage",
+      "title":"J-Hope Vintage 8",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Vintage/Vintage%208.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "BTS J-Hope Vintage",
+      "title":"J-Hope Vintage 9",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Vintage/Vintage%209.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "BTS J-Hope Vintage",
+      "title":"J-Hope Vintage 10",
+      "image":"https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Vintage/Vintage%2010.jpg"
+    }
+  ]
+}
