@@ -1,0 +1,624 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+
+      "backup_ads_banner":"282a9c4f576dd58c",
+      "backup_ads_intertitial":"fa23062fa1aa8c72",
+      "backup_ads_natives":"e9cf4d28ba1ec352",
+      "backup_ads_rewards":"5259be4d15da5a05",
+
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"null",
+
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      
+      "status_app": "0",
+      "link_redirect": "https://",
+
+      "on_off_category":"1"
+    }
+  ],
+
+
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper BTS RM",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill.walljsonx"
+    },
+    {
+      "id":2,
+      "title":"Wallpaper BTS V",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%202.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adrochillwall2.walljson"
+    },
+    {
+      "id":3,
+      "title":"Wallpaper BTS J-Hope",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%203.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill3.walljson"
+    }
+  ],
+
+
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BTS Jin",
+      "image": "https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Biasa/Biasa%2015.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "BTS Jin Aesthetic",
+      "image": "https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Aesthetic/Aesthetic%201.png"
+
+    },
+    {
+      "id": 3,
+      "name_category": "BTS Jin Cute",
+      "image": "https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Cute/Cute%202.png"
+
+    },
+    {
+      "id": 4,
+      "name_category": "BTS Jin New",
+      "image": "https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Vintage/Vintage%201.jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "BTS Jin Random",
+      "image": "https://andromega1125.github.io/wallpaper/J-Hope/J-Hope%20Vintage/Vintage%201.jpg"
+
+    }
+  ],
+
+
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 1",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%201.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "BTS Jin Aesthetic",
+      "title": "Jin Aesthetic 2",
+      "image": "https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%202.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 3",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%203.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 4",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%204.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 5",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%205.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 6",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%206.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 7",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%207.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 8",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%208.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 9",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%209.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 10",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%2010.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 11",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%2011.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 12",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%2012.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 13",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%2013.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 14",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%2014.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 15",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%2015.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 16",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%2016.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 17",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%2017.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 18",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%2018.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 19",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%2019.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "BTS Jin Aesthetic",
+      "title":"Jin Aesthetic 20",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Aesthetic/Aesthetic%2020.jpg"
+    },
+    
+
+    {
+      "id":21,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 1",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%201.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 2",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%202.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 3",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%203.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 4",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%204.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 5",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%205.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 6",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%206.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 7",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%207.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 8",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%208.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 9",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%209.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 10",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%2010.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 11",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%2011.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 12",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%2012.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 13",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%2013.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 14",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%2014.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 15",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%2015.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 16",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%2016.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 17",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%2017.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "BTS Jin",
+      "title":"JinBiasa 18",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%2018.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "BTS Jin",
+      "title":"Jin Biasa 19",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Biasa/Biasa%2019.jpg"
+    },
+    
+    
+
+    {
+      "id":41,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 1",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%201.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 2",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%202.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 3",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%203.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 4",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%204.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 5",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%205.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 6",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%206.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 7",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%207.png"
+    },
+    {
+      "id":48,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 8",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%208.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 9",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%209.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 10",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%2010.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 11",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%2011.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 12",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%2012.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 13",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%2013.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 14",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%2014.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 15",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%2015.png"
+    },
+    {
+      "id":56,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 16",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%2016.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 17",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%2017.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 18",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%2018.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 19",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%2019.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "BTS Jin Cute",
+      "title":"Jin Cute 20",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Cute/Cute%2020.jpg"
+    },
+
+
+    {
+      "id":61,
+      "name_category": "BTS Jin New",
+      "title":"Jin New 1",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20New/New%201.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "BTS Jin New",
+      "title":"Jin Newe 2",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20New/New%202.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "BTS Jin New",
+      "title":"Jin New 3",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20New/New%203.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "BTS Jin New",
+      "title":"Jin New 4",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20New/New%204.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "BTS Jin New",
+      "title":"Jin New 5",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20New/New%205.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "BTS Jin New",
+      "title":"Jin New 6",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20New/New%206.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "BTS Jin New",
+      "title":"Jin New 7",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20New/New%207.jpg"
+    },
+    {
+      "id":68,
+      "name_category": "BTS Jin New",
+      "title":"Jin New 8",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20New/New%208.png"
+    },
+    {
+      "id":69,
+      "name_category": "BTS Jin New",
+      "title":"Jin New 9",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20New/New%209.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "BTS Jin New",
+      "title":"Jin New 10",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20New/New%2010.jpg"
+    },
+    {
+      "id":71,
+      "name_category": "BTS Jin New",
+      "title":"Jin New 11",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20New/New%2011.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "BTS Jin New",
+      "title":"Jin New 12",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20New/New%2012.jpg"
+    },
+
+
+    {
+      "id":81,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 1",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%201.jpg"
+    },
+    {
+      "id":82,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 2",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%202.jpg"
+    },
+    {
+      "id":83,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 3",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%203.jpg"
+    },
+    {
+      "id":84,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 4",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%204.jpg"
+    },
+    {
+      "id":85,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 5",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%205.png"
+    },
+    {
+      "id":86,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 6",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%206.jpg"
+    },
+    {
+      "id":87,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 7",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%207.jpg"
+    },
+    {
+      "id":88,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 8",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%208.jpg"
+    },
+    {
+      "id":89,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 9",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%209.jpg"
+    },
+    {
+      "id":90,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 10",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%2010.jpg"
+    },
+    {
+      "id":91,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 11",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%2011.jpg"
+    },
+    {
+      "id":92,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 12",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%2012.jpg"
+    },
+    {
+      "id":93,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 13",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%2013.jpg"
+    },
+    {
+      "id":94,
+      "name_category": "BTS Jin Random",
+      "title":"Jin Random 14",
+      "image":"https://andromega1125.github.io/wallpaper/Jin/Jin%20Random/Random%2014.jpg"
+    }
+  ]
+}
