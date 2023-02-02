@@ -2,19 +2,19 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"null",
+      "select_backup_ads":"APPLOVIN-M",
 
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_banner": "ca-app-pub-3197227035069915/4551607616",
+      "main_ads_intertitial":"ca-app-pub-3197227035069915/9358610534",
+      "main_ads_natives":"ca-app-pub-3197227035069915/4899091977",
+      "main_ads_rewards":"ca-app-pub-3197227035069915/3589879733",
 
-      "backup_ads_banner":"282a9c4f576dd58c",
-      "backup_ads_intertitial":"fa23062fa1aa8c72",
-      "backup_ads_natives":"e9cf4d28ba1ec352",
-      "backup_ads_rewards":"5259be4d15da5a05",
+      "backup_ads_banner":"456c63a643d66aea",
+      "backup_ads_intertitial":"243f01c038eba42c",
+      "backup_ads_natives":"24ded3b81e985edb",
+      "backup_ads_rewards":"3e0c914c3bf06f95",
 
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_admob":"ca-app-pub-3197227035069915/1995125835",
       "open_ads_alien":"null",
 
       "switch_open_ads":"1",
