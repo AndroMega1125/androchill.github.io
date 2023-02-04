@@ -1,0 +1,684 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "backup_ads_rewards":"",
+
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"null",
+
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      
+      "status_app": "0",
+      "link_redirect": "https://",
+
+      "on_off_category":"1"
+    }
+  ],
+
+
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper BTS RM",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill.walljsonx"
+    },
+    {
+      "id":2,
+      "title":"Wallpaper BTS V",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%202.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adrochillwall2.walljson"
+    },
+    {
+      "id":3,
+      "title":"Wallpaper BTS J-Hope",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%203.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill3.walljson"
+    },
+    {
+      "id":4,
+      "title":"Wallpaper BTS Jin",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%204.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill4.walljson"
+    },
+    {
+      "id":5,
+      "title":"Wallpaper BTS Jimin",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%205.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill5.walljson"
+    }
+  ],
+
+
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BTS Suga",
+      "image": "https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%201.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "BTS Suga Aesthetic",
+      "image": "https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%2020.png"
+
+    },
+    {
+      "id": 3,
+      "name_category": "BTS Suga Cute",
+      "image": "https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%201.jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "BTS Suga Fanart",
+      "image": "https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%201.jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "BTS Suga Random",
+      "image": "https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%2012.jpg"
+
+    }
+  ],
+
+
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 1",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%201.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "BTS Suga Aesthetic",
+      "title": "Suga Aesthetic 2",
+      "image": "https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%202.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 3",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%203.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 4",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%204.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 5",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%205.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 6",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%206.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 7",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%207.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 8",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%208.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 9",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%209.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 10",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%2010.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 11",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%2011.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 12",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%2012.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 13",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%2013.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 14",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%2014.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 15",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%2015.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 16",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%2016.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 17",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%2017.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 18",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%2018.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 19",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%2019.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 20",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%2020.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "BTS Suga Aesthetic",
+      "title":"Suga Aesthetic 21",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Aesthetic/Aesthetic%2021.png"
+    },
+    
+
+    {
+      "id":31,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 1",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%201.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 2",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%202.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 3",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%203.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 4",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%204.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 5",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%205.png"
+    },
+    {
+      "id":36,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 6",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%206.png"
+    },
+    {
+      "id":37,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 7",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%207.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 8",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%208.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 9",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%209.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 10",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%2010.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 11",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%2011.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 12",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%2012.png"
+    },
+    {
+      "id":43,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 13",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%2013.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 14",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%2014.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 15",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%2015.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 16",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%2016.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 17",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%2017.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 18",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%2018.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 19",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%2019.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "BTS Suga",
+      "title":"Suga Biasa 20",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Biasa/Biasa%2020.jpg"
+    },
+
+
+    {
+      "id":51,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 1",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%201.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 2",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%202.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 3",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%203.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 4",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%204.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 5",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%205.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 6",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%206.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 7",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%207.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 8",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%208.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 9",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%209.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 10",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%2010.jpg"
+    },
+    {
+      "id":61,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 11",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%2011.png"
+    },
+    {
+      "id":62,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 12",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%2012.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 13",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%2013.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 14",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%2014.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 15",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%2015.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "BTS Suga Cute",
+      "title":"Suga Cute 16",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Cute/Cute%2016.jpg"
+    },
+
+
+    {
+      "id":71,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 1",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%201.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 2",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%202.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 3",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%203.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 4",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%204.jpg"
+    },
+    {
+      "id":75,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 5",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%205.jpg"
+    },
+    {
+      "id":76,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 6",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%206.jpg"
+    },
+    {
+      "id":77,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 7",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%207.jpg"
+    },
+    {
+      "id":78,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 8",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%208.jpg"
+    },
+    {
+      "id":79,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 9",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%209.jpg"
+    },
+    {
+      "id":80,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 10",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%2010.jpg"
+    },
+    {
+      "id":81,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 11",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%2011.jpg"
+    },
+    {
+      "id":82,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 12",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%2012.jpg"
+    },
+    {
+      "id":83,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 13",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%2013.jpg"
+    },
+    {
+      "id":84,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 14",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%2014.jpg"
+    },
+    {
+      "id":85,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 15",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%2015.jpg"
+    },
+    {
+      "id":86,
+      "name_category": "BTS Suga Fanart",
+      "title":"Suga Fanart 16",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Fanart/Fanart%2016.jpg"
+    },
+
+
+    {
+      "id":91,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 1",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%201.jpg"
+    },
+    {
+      "id":92,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 2",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%202.jpg"
+    },
+    {
+      "id":93,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 3",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%203.jpg"
+    },
+    {
+      "id":94,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 4",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%204.jpg"
+    },
+    {
+      "id":95,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 5",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%205.jpg"
+    },
+    {
+      "id":96,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 6",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%206.jpg"
+    },
+    {
+      "id":97,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 7",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%207.jpg"
+    },
+    {
+      "id":98,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 8",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%208.jpg"
+    },
+    {
+      "id":99,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 9",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%209.jpg"
+    },
+    {
+      "id":100,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 10",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%2010.jpg"
+    },
+    {
+      "id":101,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 11",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%2011.jpg"
+    },
+    {
+      "id":102,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 12",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%2012.jpg"
+    },
+    {
+      "id":103,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 13",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%2013.jpg"
+    },
+    {
+      "id":104,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 14",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%2014.jpg"
+    },
+    {
+      "id":105,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 15",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%2015.png"
+    },
+    {
+      "id":106,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 16",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%2016.jpg"
+    },
+    {
+      "id":107,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 17",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%2017.jpg"
+    },
+    {
+      "id":108,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 18",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%2018.png"
+    },
+    {
+      "id":109,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 19",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%2019.jpg"
+    },
+    {
+      "id":110,
+      "name_category": "BTS Suga Random",
+      "title":"Suga Random 20",
+      "image":"https://andromega1125.github.io/wallpaper/Suga/Suga%20Random/Random%2020.jpg"
+    }
+  
+  ]
+}
