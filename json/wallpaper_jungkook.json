@@ -1,0 +1,829 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "backup_ads_rewards":"",
+
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"null",
+
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      
+      "status_app": "0",
+      "link_redirect": "https://",
+
+      "on_off_category":"1"
+    }
+  ],
+
+
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper BTS RM",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill.walljsonx"
+    },
+    {
+      "id":2,
+      "title":"Wallpaper BTS V",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%202.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adrochillwall2.walljson"
+    },
+    {
+      "id":3,
+      "title":"Wallpaper BTS J-Hope",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%203.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill3.walljson"
+    },
+    {
+      "id":4,
+      "title":"Wallpaper BTS Jin",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%204.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill4.walljson"
+    },
+    {
+      "id":5,
+      "title":"Wallpaper BTS Jimin",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%205.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill5.walljson"
+    },
+    {
+      "id":6,
+      "title":"Wallpaper BTS Suga",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%206.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill6.walljson"
+    }
+  ],
+
+
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BTS Jungkook",
+      "image": "https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%203.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "BTS Jungkook Aesthetic",
+      "image": "https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2030.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "image": "https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2017.jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "BTS Jungkook Fanart",
+      "image": "https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%202.jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "BTS Jungkook Christmas",
+      "image": "https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%2016.jpg"
+
+    }
+  ],
+
+
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 1",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%201.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title": "Jungkook Aesthetic 2",
+      "image": "https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%202.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 3",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%203.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 4",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%204.png"
+    },
+    {
+      "id":5,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 5",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%205.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 6",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%206.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 7",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%207.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 8",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%208.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 9",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%209.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 10",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2010.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 11",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2011.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 12",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2012.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 13",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2013.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 14",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2014.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 15",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2015.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 16",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2016.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 17",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2017.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 18",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2018.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 19",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2019.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 20",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2020.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 21",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2021.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 22",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2022.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 23",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2023.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 24",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2024.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 25",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2025.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 26",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2026.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 27",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2027.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 28",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2028.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 29",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2029.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "BTS Jungkook Aesthetic",
+      "title":"Jungkook Aesthetic 30",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Aesthetic/Aesthetic%2030.jpg"
+    },
+    
+
+    {
+      "id":31,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 1",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%201.png"
+    },
+    {
+      "id":32,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 2",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%202.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 3",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%203.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 4",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%204.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 5",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%205.png"
+    },
+    {
+      "id":36,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 6",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%206.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 7",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%207.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 8",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%208.png"
+    },
+    {
+      "id":39,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 9",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%209.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 10",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2010.png"
+    },
+    {
+      "id":41,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 11",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2011.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 12",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2012.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 13",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2013.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 14",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2014.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 15",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2015.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 16",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2016.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 17",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2017.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 18",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2018.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 19",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2019.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 20",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2020.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 21",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2021.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 22",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2022.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 23",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2023.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 24",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2024.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 25",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2025.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 26",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2026.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 27",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2027.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 28",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2028.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 29",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2029.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "BTS Jungkook",
+      "title":"Jungkook Biasa 30",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Biasa/Biasa%2030.jpg"
+    },
+
+
+    {
+      "id":61,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 1",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%201.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 2",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%202.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 3",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%203.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 4",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%204.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 5",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%205.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 6",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%206.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 7",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%207.jpg"
+    },
+    {
+      "id":68,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 8",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%208.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 9",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%209.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 10",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2010.jpg"
+    },
+    {
+      "id":71,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 11",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2011.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 12",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2012.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 13",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2013.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 14",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2014.jpg"
+    },
+    {
+      "id":75,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 15",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2015.jpg"
+    },
+    {
+      "id":76,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 16",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2016.jpg"
+    },
+    {
+      "id":77,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 17",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2017.jpg"
+    },
+    {
+      "id":78,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 18",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2018.jpg"
+    },
+    {
+      "id":79,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 19",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2019.jpg"
+    },
+    {
+      "id":80,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 20",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2020.jpg"
+    },
+    {
+      "id":81,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 21",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2021.jpg"
+    },
+    {
+      "id":82,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 22",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2022.jpg"
+    },
+    {
+      "id":83,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 23",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2023.jpg"
+    },
+    {
+      "id":84,
+      "name_category": "BTS Jungkook Pink Aesthetic",
+      "title":"Jungkook Pink Aesthetic 24",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Pink%20Aesthetic/Pink%20Aesthetic%2024.jpg"
+    },
+
+
+    {
+      "id":91,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 1",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%201.jpg"
+    },
+    {
+      "id":92,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 2",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%202.jpg"
+    },
+    {
+      "id":93,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 3",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%203.jpg"
+    },
+    {
+      "id":94,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 4",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%204.jpg"
+    },
+    {
+      "id":95,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 5",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%205.jpg"
+    },
+    {
+      "id":96,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 6",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%206.jpg"
+    },
+    {
+      "id":97,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 7",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%207.jpg"
+    },
+    {
+      "id":98,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 8",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%208.jpg"
+    },
+    {
+      "id":99,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 9",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%209.jpg"
+    },
+    {
+      "id":100,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 10",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%2010.jpg"
+    },
+    {
+      "id":101,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 11",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%2011.jpg"
+    },
+    {
+      "id":102,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 12",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%2012.jpg"
+    },
+    {
+      "id":103,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 13",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%2013.png"
+    },
+    {
+      "id":104,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 14",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%2014.jpg"
+    },
+    {
+      "id":105,
+      "name_category": "BTS Jungkook Fanart",
+      "title":"Jungkook Fanart 15",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Fanart/Fanart%2015.jpg"
+    },
+    
+
+
+    {
+      "id":111,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 1",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%201.jpg"
+    },
+    {
+      "id":112,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 2",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%202.jpg"
+    },
+    {
+      "id":113,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 3",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%203.jpg"
+    },
+    {
+      "id":114,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 4",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%204.jpg"
+    },
+    {
+      "id":115,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 5",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%205.jpg"
+    },
+    {
+      "id":116,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 6",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%206.jpg"
+    },
+    {
+      "id":117,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 7",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%207.jpg"
+    },
+    {
+      "id":118,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 8",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%208.jpg"
+    },
+    {
+      "id":119,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 9",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%209.jpg"
+    },
+    {
+      "id":120,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 10",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%2010.jpg"
+    },
+    {
+      "id":121,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 11",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%2011.jpg"
+    },
+    {
+      "id":122,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 12",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%2012.jpg"
+    },
+    {
+      "id":123,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 13",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%2013.jpg"
+    },
+    {
+      "id":124,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 14",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%2014.jpg"
+    },
+    {
+      "id":125,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 15",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%2015.jpg"
+    },
+    {
+      "id":126,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 16",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%2016.jpg"
+    },
+    {
+      "id":127,
+      "name_category": "BTS Jungkook Christmas",
+      "title":"Jungkook Christmas 17",
+      "image":"https://andromega1125.github.io/wallpaper/Jungkook/Jungkook%20Christmas/Christmas%2017.jpg"
+    }
+  
+  ]
+}
