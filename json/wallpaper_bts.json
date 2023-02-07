@@ -1,0 +1,806 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "backup_ads_rewards":"",
+
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"null",
+
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      
+      "status_app": "0",
+      "link_redirect": "https://",
+
+      "on_off_category":"1"
+    }
+  ],
+
+
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper BTS RM",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill.walljsonx"
+    },
+    {
+      "id":2,
+      "title":"Wallpaper BTS V",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%202.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adrochillwall2.walljson"
+    },
+    {
+      "id":3,
+      "title":"Wallpaper BTS J-Hope",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%203.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill3.walljson"
+    },
+    {
+      "id":4,
+      "title":"Wallpaper BTS Jin",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%204.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill4.walljson"
+    },
+    {
+      "id":5,
+      "title":"Wallpaper BTS Jimin",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%205.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill5.walljson"
+    },
+    {
+      "id":6,
+      "title":"Wallpaper BTS Suga",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%206.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill6.walljson"
+    },
+    {
+      "id":7,
+      "title":"Wallpaper BTS Jungkook",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%207.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill7.walljson"
+    }
+  ],
+
+
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BTS",
+      "image": "https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%201.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "BTS Aesthetic",
+      "image": "https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2021.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "BTS Characters",
+      "image": "https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Characters/Characters%205.jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "BTS Autograph",
+      "image": "https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%202.jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "BTS Polaroid",
+      "image": "https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%202.jpg"
+
+    }
+  ],
+
+
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 1",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%201.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "BTS Aesthetic",
+      "title": "Aesthetic 2",
+      "image": "https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%202.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 3",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%203.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 4",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%204.png"
+    },
+    {
+      "id":5,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 5",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%205.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 6",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%206.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 7",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%207.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 8",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%208.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 9",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%209.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 10",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2010.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 11",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2011.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 12",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2012.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 13",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2013.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 14",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2014.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 15",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2015.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 16",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2016.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 17",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2017.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 18",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2018.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 19",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2019.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 20",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2020.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 21",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2021.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "BTS Aesthetic",
+      "title":"Aesthetic 22",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Aesthetic/Aesthetic%2022.jpg"
+    },
+    
+    
+
+    {
+      "id":31,
+      "name_category": "BTS",
+      "title":"Biasa 1",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%201.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "BTS",
+      "title":"Biasa 2",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%202.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "BTS",
+      "title":"Biasa 3",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%203.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "BTS",
+      "title":"Biasa 4",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%204.png"
+    },
+    {
+      "id":35,
+      "name_category": "BTS",
+      "title":"Biasa 5",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%205.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "BTS",
+      "title":"Biasa 6",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%206.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "BTS",
+      "title":"Biasa 7",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%207.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "BTS",
+      "title":"Biasa 8",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%208.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "BTS",
+      "title":"Biasa 9",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%209.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "BTS",
+      "title":"Biasa 10",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2010.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "BTS",
+      "title":"Biasa 11",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2011.png"
+    },
+    {
+      "id":42,
+      "name_category": "BTS",
+      "title":"Biasa 12",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2012.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "BTS",
+      "title":"Biasa 13",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2013.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "BTS",
+      "title":"Biasa 14",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2014.png"
+    },
+    {
+      "id":45,
+      "name_category": "BTS",
+      "title":"Biasa 15",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2015.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "BTS",
+      "title":"Biasa 16",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2016.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "BTS",
+      "title":"Biasa 17",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2017.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "BTS",
+      "title":"Biasa 18",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2018.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "BTS",
+      "title":"Biasa 19",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2019.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "BTS",
+      "title":"Biasa 20",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2020.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "BTS",
+      "title":"Biasa 21",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2021.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "BTS",
+      "title":"Biasa 22",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2022.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "BTS",
+      "title":"Biasa 23",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2023.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "BTS",
+      "title":"Biasa 24",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2024.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "BTS",
+      "title":"Biasa 25",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2025.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "BTS",
+      "title":"Biasa 26",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2026.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "BTS",
+      "title":"Biasa 27",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2027.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "BTS",
+      "title":"Biasa 28",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2028.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "BTS",
+      "title":"Biasa 29",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2029.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "BTS",
+      "title":"Biasa 30",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2030.jpg"
+    },
+    {
+      "id":61,
+      "name_category": "BTS",
+      "title":"Biasa 31",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2031.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "BTS",
+      "title":"Biasa 32",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2032.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "BTS",
+      "title":"Biasa 33",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2033.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "BTS",
+      "title":"Biasa 34",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2034.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "BTS",
+      "title":"Biasa 35",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Biasa/Biasa%2035.jpg"
+    },
+
+
+    {
+      "id":71,
+      "name_category": "BTS Characters",
+      "title":"Characters 1",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Characters/Characters%201.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "BTS Characters",
+      "title":"Characters 2",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Characters/Characters%202.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "BTS Characters",
+      "title":"Characters 3",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Characters/Characters%203.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "BTS Characters",
+      "title":"Characters 4",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Characters/Characters%204.jpg"
+    },
+    {
+      "id":75,
+      "name_category": "BTS Characters",
+      "title":"Characters 5",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Characters/Characters%205.jpg"
+    },
+    {
+      "id":76,
+      "name_category": "BTS Characters",
+      "title":"Characters 6",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Characters/Characters%206.jpg"
+    },
+    {
+      "id":77,
+      "name_category": "BTS Characters",
+      "title":"Characters 7",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Characters/Characters%207.jpg"
+    },
+    {
+      "id":78,
+      "name_category": "BTS Characters",
+      "title":"Characters 8",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Characters/Characters%208.jpg"
+    },
+    {
+      "id":79,
+      "name_category": "BTS Characters",
+      "title":"Characters 9",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Characters/Characters%209.jpg"
+    },
+    {
+      "id":80,
+      "name_category": "BTS Characters",
+      "title":"Characters 10",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Characters/Characters%2010.jpg"
+    },
+    {
+      "id":81,
+      "name_category": "BTS Characters",
+      "title":"Characters 11",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Characters/Characters%2011.jpg"
+    },
+    {
+      "id":82,
+      "name_category": "BTS Characters",
+      "title":"Characters 12",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Characters/Characters%2012.jpg"
+    },
+    
+
+    {
+      "id":91,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 1",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%201.jpg"
+    },
+    {
+      "id":92,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 2",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%202.jpg"
+    },
+    {
+      "id":93,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 3",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%203.jpg"
+    },
+    {
+      "id":94,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 4",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%204.jpg"
+    },
+    {
+      "id":95,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 5",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%205.jpg"
+    },
+    {
+      "id":96,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 6",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%206.jpg"
+    },
+    {
+      "id":97,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 7",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%207.jpg"
+    },
+    {
+      "id":98,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 8",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%208.png"
+    },
+    {
+      "id":99,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 9",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%209.jpg"
+    },
+    {
+      "id":100,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 10",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%2010.jpg"
+    },
+    {
+      "id":101,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 11",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%2011.jpg"
+    },
+    {
+      "id":102,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 12",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%2012.jpg"
+    },
+    {
+      "id":103,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 13",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%2013.jpg"
+    },
+    {
+      "id":104,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 14",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%2014.jpg"
+    },
+    {
+      "id":105,
+      "name_category": "BTS Autograph",
+      "title":"Autograph 15",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Autograph/Autograph%2015.jpg"
+    },
+    
+
+
+    {
+      "id":111,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 1",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%201.jpg"
+    },
+    {
+      "id":112,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 2",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%202.jpg"
+    },
+    {
+      "id":113,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 3",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%203.jpg"
+    },
+    {
+      "id":114,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 4",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%204.jpg"
+    },
+    {
+      "id":115,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 5",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%205.jpg"
+    },
+    {
+      "id":116,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 6",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%206.jpg"
+    },
+    {
+      "id":117,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 7",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%207.jpg"
+    },
+    {
+      "id":118,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 8",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%208.jpg"
+    },
+    {
+      "id":119,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 9",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%209.jpg"
+    },
+    {
+      "id":120,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 10",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2010.jpg"
+    },
+    {
+      "id":121,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 11",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2011.jpg"
+    },
+    {
+      "id":122,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 12",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2012.jpg"
+    },
+    {
+      "id":123,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 13",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2013.jpg"
+    },
+    {
+      "id":124,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 14",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2014.jpg"
+    },
+    {
+      "id":125,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 15",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2015.jpg"
+    },
+    {
+      "id":126,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 16",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2016.jpg"
+    },
+    {
+      "id":127,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 17",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2017.png"
+    },
+    {
+      "id":128,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 18",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2018.jpg"
+    },
+    {
+      "id":129,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 19",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2019.jpg"
+    },
+    {
+      "id":130,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 20",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2020.jpg"
+    },
+    {
+      "id":131,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 21",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2021.jpg"
+    },
+    {
+      "id":132,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 22",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2022.jpg"
+    },
+    {
+      "id":133,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 23",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2023.jpg"
+    },
+    {
+      "id":134,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 24",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2024.jpg"
+    },
+    {
+      "id":135,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 25",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2025.jpg"
+    },
+    {
+      "id":136,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 26",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2026.jpg"
+    },
+    {
+      "id":137,
+      "name_category": "BTS Polaroid",
+      "title":"Polaroid 27",
+      "image":"https://andromega1125.github.io/wallpaper/Full%20BTS/BTS%20Polaroid/Polaroid%2027.jpg"
+    }
+  
+  ]
+}
