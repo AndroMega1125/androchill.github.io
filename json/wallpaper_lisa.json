@@ -1,0 +1,821 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "backup_ads_rewards":"",
+
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"null",
+
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      
+      "status_app": "0",
+      "link_redirect": "https://",
+
+      "on_off_category":"1"
+    }
+  ],
+
+
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper BTS RM",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill.walljsonx"
+    },
+    {
+      "id":2,
+      "title":"Wallpaper BTS V",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%202.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adrochillwall2.walljson"
+    },
+    {
+      "id":3,
+      "title":"Wallpaper BTS J-Hope",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%203.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill3.walljson"
+    },
+    {
+      "id":4,
+      "title":"Wallpaper BTS Jin",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%204.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill4.walljson"
+    },
+    {
+      "id":5,
+      "title":"Wallpaper BTS Jimin",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%205.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill5.walljson"
+    },
+    {
+      "id":6,
+      "title":"Wallpaper BTS Suga",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%206.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill6.walljson"
+    },
+    {
+      "id":7,
+      "title":"Wallpaper BTS Jungkook",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%207.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill7.walljson"
+    },
+    {
+      "id":8,
+      "title":"Wallpaper BTS Jungkook",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%208.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill7.walljson"
+    }
+  ],
+
+
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Blackpink",
+      "image": "https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2020.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Blackpink Aesthetic",
+      "image": "https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%208.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Blackpink Lisa Art",
+      "image": "https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%201.jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "Blackpink Lisa Cool ",
+      "image": "https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%2019.jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "Blackpink Lisa Cute",
+      "image": "hhttps://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2011.png"
+
+    }
+  ],
+
+
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 1",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%201.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title": "Lisa Aesthetic 2",
+      "image": "https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%202.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 3",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%203.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 4",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%204.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 5",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%205.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 6",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%206.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 7",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%207.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 8",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%208.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 9",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%209.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 10",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%2010.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 11",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%2011.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 12",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%2012.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 13",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%2013.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 14",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%2014.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 15",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%2015.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 16",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%2016.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 17",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%2017.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 18",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%2018.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 19",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%2019.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Blackpink Lisa Aesthetic",
+      "title":"Lisa Aesthetic 20",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Aesthetic/Aesthetic%2020.jpg"
+    },
+    
+    
+
+    {
+      "id":21,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 1",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%201.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 2",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%202.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 3",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%203.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 4",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%204.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 5",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%205.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 6",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%206.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 7",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%207.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 8",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%208.png"
+    },
+    {
+      "id":29,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 9",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%209.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 10",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2010.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 11",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2011.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 12",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2012.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 13",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2013.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 14",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2014.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 15",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2015.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 16",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2016.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 17",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2017.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 18",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2018.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 19",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2019.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 20",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2020.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 21",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2021.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 22",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2022.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 23",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2023.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 24",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2024.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 25",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2025.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 26",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2026.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 27",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2027.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 28",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2028.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 29",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2029.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "Blackpink Lisa",
+      "title":"Biasa 30",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Biasa/Biasa%2030.jpg"
+    },
+    
+
+
+    {
+      "id":51,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 1",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%201.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 2",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%202.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 3",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%203.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 4",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%204.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 5",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%205.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 6",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%206.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 7",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%207.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 8",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%208.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 9",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%209.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 10",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%2010.jpg"
+    },
+    {
+      "id":61,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 11",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%2011.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 12",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%2012.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 13",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%2013.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 14",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%2014.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 15",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%2015.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 16",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%2016.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 17",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%2017.png"
+    },
+    {
+      "id":68,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 18",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%2018.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 19",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%2019.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "Blackpink Lisa Art",
+      "title":"Lisa Art 20",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Art/Art%2020.png"
+    },
+
+    
+
+    {
+      "id":71,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 1",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%201.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 2",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%202.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 3",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%203.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 4",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%204.jpg"
+    },
+    {
+      "id":75,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 5",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%205.jpg"
+    },
+    {
+      "id":76,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 6",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%206.jpg"
+    },
+    {
+      "id":77,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 7",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%207.jpg"
+    },
+    {
+      "id":78,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 8",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%208.jpg"
+    },
+    {
+      "id":79,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 9",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%209.jpg"
+    },
+    {
+      "id":80,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 10",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%2010.jpg"
+    },
+    {
+      "id":81,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 11",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%2011.jpg"
+    },
+    {
+      "id":82,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 12",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%2012.jpg"
+    },
+    {
+      "id":83,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 13",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%2013.jpg"
+    },
+    {
+      "id":84,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 14",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%2014.jpg"
+    },
+    { 
+      "id":85,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 15",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%2015.jpg"
+    },
+    {
+      "id":86,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 16",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%2016.jpg"
+    },
+    {
+      "id":87,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 17",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%2017.jpg"
+    },
+    {
+      "id":88,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 18",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%2018.jpg"
+    },
+    {
+      "id":89,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 19",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%2019.jpg"
+    },
+    {
+      "id":90,
+      "name_category": "Blackpink Lisa Cool ",
+      "title":"Lisa Cool 20",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cool/Cool%2020.jpg"
+    },
+    
+
+
+    {
+      "id":91,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 1",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%201.jpg"
+    },
+    {
+      "id":92,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 2",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%202.jpg"
+    },
+    {
+      "id":93,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 3",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%203.jpg"
+    },
+    {
+      "id":94,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 4",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%204.png"
+    },
+    {
+      "id":95,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 5",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%205.jpg"
+    },
+    {
+      "id":96,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 6",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%206.jpg"
+    },
+    {
+      "id":97,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 7",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%207.jpg"
+    },
+    {
+      "id":98,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 8",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%208.jpg"
+    },
+    {
+      "id":99,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 9",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%209.jpg"
+    },
+    {
+      "id":100,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 10",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2010.jpg"
+    },
+    {
+      "id":101,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 11",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2011.png"
+    },
+    {
+      "id":102,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 12",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2012.jpg"
+    },
+    {
+      "id":103,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 13",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2013.jpg"
+    },
+    {
+      "id":104,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 14",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2014.jpg"
+    },
+    {
+      "id":105,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 15",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2015.jpg"
+    },
+    {
+      "id":106,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 16",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2016.jpg"
+    },
+    {
+      "id":107,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 17",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2017.jpg"
+    },
+    {
+      "id":108,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 18",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2018.jpg"
+    },
+    {
+      "id":109,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 19",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2019.jpg"
+    },
+    {
+      "id":110,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 20",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2020.jpg"
+    },
+    {
+      "id":111,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 21",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2021.jpg"
+    },
+    {
+      "id":112,
+      "name_category": "Blackpink Lisa Cute",
+      "title":"Lisa Cute 22",
+      "image":"https://andromega1125.github.io/wallpaper/Blackpink/Lisa/Cute/Cute%2022.jpg"
+    }
+    
+  
+  ]
+}
