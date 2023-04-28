@@ -1,0 +1,1111 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+
+      "main_ads_banner": "ca-app-pub-3197227035069915/5606852189x",
+      "main_ads_intertitial":"ca-app-pub-3197227035069915/1291933151x",
+      "main_ads_natives":"ca-app-pub-3197227035069915/1215911532x",
+      "main_ads_rewards":"ca-app-pub-3197227035069915/2980688844x",
+
+      "backup_ads_banner":"82a1b9b48d111630",
+      "backup_ads_intertitial":"96719bf0cc9eada8",
+      "backup_ads_natives":"fad5af9539fd4253",
+      "backup_ads_rewards":"a8190ae0fa6e5457",
+
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294x",
+      "open_ads_alien":"a8190ae0fa6e5450",
+
+      "switch_open_ads":"2",
+      "switch_banner_natives_ads":"1",
+
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      
+      "status_app": "0",
+      "link_redirect": "https://",
+
+      "on_off_category":"1"
+    }
+  ],
+
+
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper BTS RM",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill.walljsonx"
+    },
+    {
+      "id":2,
+      "title":"Wallpaper BTS V",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%202.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adrochillwall2.walljson"
+    },
+    {
+      "id":3,
+      "title":"Wallpaper BTS J-Hope",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%203.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill3.walljson"
+    },
+    {
+      "id":4,
+      "title":"Wallpaper BTS Jin",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%204.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill4.walljson"
+    },
+    {
+      "id":5,
+      "title":"Wallpaper BTS Jimin",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%205.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill5.walljson"
+    },
+    {
+      "id":6,
+      "title":"Wallpaper BTS Suga",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%206.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill6.walljson"
+    },
+    {
+      "id":7,
+      "title":"Wallpaper BTS Jungkook",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%207.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill7.walljson"
+    },
+    {
+      "id":8,
+      "title":"Wallpaper BTS",
+      "image":"https://andromega1125.github.io/wallpaper/logo/logo%208.png",
+      "link":"https://play.google.com/store/apps/details?id=com.androchill8.walljson"
+    }
+  ],
+
+
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Akatsuki",
+      "image": "https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/1.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Itachi",
+      "image": "https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/1.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Obito",
+      "image": "https://andromega1125.github.io/wallpaper/Akatsuki/Obito/1.jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "Zetsu",
+      "image": "https://andromega1125.github.io/wallpaper/Akatsuki/Zetsu/1.jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "Kisame",
+      "image": "https://andromega1125.github.io/wallpaper/Akatsuki/Kisame/1.jpg"
+
+    },
+    {
+      "id": 6,
+      "name_category": "Deidara",
+      "image": "https://andromega1125.github.io/wallpaper/Akatsuki/Daidara/1.jpg"
+
+    },
+    {
+      "id": 7,
+      "name_category": "Sasori",
+      "image": "https://andromega1125.github.io/wallpaper/Akatsuki/Sasori/1.jpg"
+
+    },
+    {
+      "id": 8,
+      "name_category": "Hidan",
+      "image": "https://andromega1125.github.io/wallpaper/Akatsuki/Hidan/1.jpg"
+
+    },
+    {
+      "id": 9,
+      "name_category": "Kakuzu",
+      "image": "https://andromega1125.github.io/wallpaper/Akatsuki/Kakuzu/1.jpg"
+
+    },
+    {
+      "id": 10,
+      "name_category": "Pain",
+      "image": "https://andromega1125.github.io/wallpaper/Akatsuki/Pain/1.jpg"
+
+    },
+    {
+      "id": 11,
+      "name_category": "Nagato",
+      "image": "https://andromega1125.github.io/wallpaper/Akatsuki/Nagato/1.jpg"
+
+    },
+    {
+      "id": 11,
+      "name_category": "Konan",
+      "image": "https://andromega1125.github.io/wallpaper/Akatsuki/Konan/1.jpg"
+
+    }
+  ],
+
+
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 1",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/1.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Akatsuki",
+      "title": "Akatsuki 2",
+      "image": "https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/2.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 3",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/3.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 4",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/4.png"
+    },
+    {
+      "id":5,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 5",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/5.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 6",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/6.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 7",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/7.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 8",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/8.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 9",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/9.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 10",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/10.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 11",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/11.png"
+    },
+    {
+      "id":12,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 12",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/12.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 13",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/13.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 14",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/14.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 15",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/15.png"
+    },
+    {
+      "id":16,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 16",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/16.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 17",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/17.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 18",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/18.png"
+    },
+    {
+      "id":19,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 19",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/19.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 20",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/20.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 21",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/21.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 22",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/22.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 23",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/23.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 24",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/24.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 25",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/25.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 26",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/26.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 27",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/27.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 28",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/28.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 29",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/29.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Akatsuki",
+      "title":"Akatsuki 30",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/30.jpg"
+    },
+    
+    
+
+    {
+      "id":31,
+      "name_category": "Itachi",
+      "title":"Itachi 1",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/1.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Itachi",
+      "title":"Itachi 2",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/2.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "itachi",
+      "title":"Itachi 3",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/3.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Itachi",
+      "title":"Itachi 4",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/4.png"
+    },
+    {
+      "id":35,
+      "name_category": "Itachi",
+      "title":"Itachi 5",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/5.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Itachi",
+      "title":"Itachi 6",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/6.png"
+    },
+    {
+      "id":37,
+      "name_category": "Itachi",
+      "title":"Itachi 7",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/7.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Itachi",
+      "title":"Itachi 8",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/8.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "Itachi",
+      "title":"Itachi 9",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/9.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "Itachi",
+      "title":"Itachi 10",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/10.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "Itachi",
+      "title":"Itachi 11",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/11.png"
+    },
+    {
+      "id":42,
+      "name_category": "Itachi",
+      "title":"Itachi 12",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/12.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "Itachi",
+      "title":"Itachi 13",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/13.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Itachi",
+      "title":"Itachi 14",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/14.png"
+    },
+    {
+      "id":45,
+      "name_category": "Itachi",
+      "title":"Itachi 15",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/15.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "Itachi",
+      "title":"Itachi 16",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/16.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "Itachi",
+      "title":"Itachi 17",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/17.png"
+    },
+    {
+      "id":48,
+      "name_category": "Itachi",
+      "title":"Itachi 18",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/18.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "Itachi",
+      "title":"Itachi 19",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/19.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "Itachi",
+      "title":"Itachi 20",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/20.jpg"
+    },
+
+
+
+    {
+      "id":51,
+      "name_category": "Obito",
+      "title":"Obito 1",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Obito/1.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "Obito",
+      "title":"Obito 2",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Obito/2.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "Obito",
+      "title":"Obito 3",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Obito/3.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "Obito",
+      "title":"Obito 4",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Obito/4.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "Obito",
+      "title":"Obito 5",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Obito/5.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "Obito",
+      "title":"Obito 6",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Obito/6.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "Obito",
+      "title":"Obito 7",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Obito/7.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "Obito",
+      "title":"Obito 8",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Obito/8.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "Obito",
+      "title":"Obito 9",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Obito/9.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "Obito",
+      "title":"Obito 10",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Obito/10.jpg"
+    },
+
+
+
+
+    {
+      "id":61,
+      "name_category": "Zetsu",
+      "title":"Zetsu 1",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Zetsu/1.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "Zetsu",
+      "title":"Zetsu 2",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Zetsu/2.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "Zetsu",
+      "title":"zetsu 3",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Zetsu/3.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "Zetsu",
+      "title":"Zetsu 4",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Zetsu/4.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "Zetsu",
+      "title":"Zetsu 5",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Zetsu/5.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "Zetsu",
+      "title":"Zetsu 6",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Zetsu/6.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "Zetsu",
+      "title":"Zetsu 7",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Zetsu/7.jpg"
+    },
+    {
+      "id":68,
+      "name_category": "Zetsu",
+      "title":"Zetsu 8",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Zetsu/8.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "Zetsu",
+      "title":"Zetsu 9",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Zetsu/9.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "Zetsu",
+      "title":"Zetsu 10",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Zetsu/10.jpg"
+    },
+
+
+    {
+      "id":71,
+      "name_category": "Kisame",
+      "title":"Kisame 1",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kisame/1.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "Kisame",
+      "title":"Kisame 2",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kisame/2.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "Kisame",
+      "title":"Kisame 3",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kisame/3.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "Kisame",
+      "title":"Kisame 4",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kisame/4.jpg"
+    },
+    {
+      "id":75,
+      "name_category": "Kisame",
+      "title":"Kisame 5",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kisame/5.jpg"
+    },
+    {
+      "id":76,
+      "name_category": "Kisame",
+      "title":"Kisame 6",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kisame/6.jpg"
+    },
+    {
+      "id":77,
+      "name_category": "Kisame",
+      "title":"Kisame 7",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kisame/7.jpg"
+    },
+    {
+      "id":78,
+      "name_category": "Kisame",
+      "title":"Kisame 8",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kisame/8.jpg"
+    },
+    {
+      "id":79,
+      "name_category": "Kisame",
+      "title":"Kisame 9",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kisame/9.jpg"
+    },
+    {
+      "id":80,
+      "name_category": "Kisame",
+      "title":"Kisame 10",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kisame/10.jpg"
+    },
+
+
+
+    {
+      "id":81,
+      "name_category": "Deidara",
+      "title":"Deidara 1",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Daidara/1.jpg"
+    },
+    {
+      "id":82,
+      "name_category": "Deidara",
+      "title":"Deidara 2",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Daidara/2.jpg"
+    },
+    {
+      "id":83,
+      "name_category": "Deidara",
+      "title":"Deidara 3",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Daidara/3.jpg"
+    },
+    {
+      "id":84,
+      "name_category": "Deidara",
+      "title":"Deidara 4",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Daidara/4.jpg"
+    },
+    {
+      "id":85,
+      "name_category": "Deidara",
+      "title":"Deidara 5",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Daidara/5.jpg"
+    },
+    {
+      "id":86,
+      "name_category": "Deidara",
+      "title":"Deidara 6",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Daidara/6.jpg"
+    },
+    {
+      "id":87,
+      "name_category": "Deidara",
+      "title":"Deidara 7",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Daidara/7.jpg"
+    },
+    {
+      "id":88,
+      "name_category": "Deidara",
+      "title":"Deidara 8",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Daidara/8.jpg"
+    },
+    {
+      "id":89,
+      "name_category": "Deidara",
+      "title":"Deidara 9",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Daidara/9.jpg"
+    },
+    {
+      "id":90,
+      "name_category": "Deidara",
+      "title":"Deidara 10",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Daidara/10.jpg"
+    },
+    
+
+    {
+      "id":91,
+      "name_category": "Sasori",
+      "title":"Sasori 1",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Sasori/1.jpg"
+    },
+    {
+      "id":92,
+      "name_category": "Sasori",
+      "title":"Sasori 2",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Sasori/2.jpg"
+    },
+    {
+      "id":93,
+      "name_category": "Sasori",
+      "title":"Sasori 3",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Sasori/3.jpg"
+    },
+    {
+      "id":94,
+      "name_category": "Sasori",
+      "title":"Sasori 4",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Sasori/4.jpg"
+    },
+    {
+      "id":95,
+      "name_category": "Sasori",
+      "title":"Sasori 5",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Sasori/5.jpg"
+    },
+    {
+      "id":96,
+      "name_category": "Sasori",
+      "title":"Sasori 6",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Sasori/6.jpg"
+    },
+    {
+      "id":97,
+      "name_category": "Sasori",
+      "title":"Sasori 7",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Sasori/7.jpg"
+    },
+    {
+      "id":98,
+      "name_category": "Sasori",
+      "title":"Sasori 8",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Sasori/8.png"
+    },
+    {
+      "id":99,
+      "name_category": "Sasori",
+      "title":"Sasori 9",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Sasori/9.jpg"
+    },
+    {
+      "id":100,
+      "name_category": "Sasori",
+      "title":"Sasori 10",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Sasori/10.jpg"
+    },
+
+
+
+    {
+      "id":101,
+      "name_category": "Hidan",
+      "title":"Hidan 1",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Hidan/1.jpg"
+    },
+    {
+      "id":102,
+      "name_category": "Hidan",
+      "title":"Hidan 2",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Hidan/2.jpg"
+    },
+    {
+      "id":103,
+      "name_category": "Hidan",
+      "title":"Hidan 3",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Hidan/3.jpg"
+    },
+    {
+      "id":104,
+      "name_category": "Hidan",
+      "title":"Hidan 4",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Hidan/4.jpg"
+    },
+    {
+      "id":105,
+      "name_category": "Hidan",
+      "title":"Hidan 5",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Hidan/5.jpg"
+    },
+    {
+      "id":106,
+      "name_category": "Hidan",
+      "title":"Hidan 6",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Hidan/6.jpg"
+    },
+    {
+      "id":107,
+      "name_category": "Hidan",
+      "title":"Hidan 7",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Hidan/7.jpg"
+    },
+    {
+      "id":108,
+      "name_category": "Hidan",
+      "title":"Hidan 8",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Hidan/8.jpg"
+    },
+    {
+      "id":109,
+      "name_category": "Hidan",
+      "title":"Hidan 9",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Hidan/9.jpg"
+    },
+    {
+      "id":110,
+      "name_category": "Hidan",
+      "title":"Hidan 10",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Hidan/10.jpg"
+    },
+    
+
+
+    {
+      "id":111,
+      "name_category": "Kakuzu",
+      "title":"Kakuzu 1",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/kakuzu/1.jpg"
+    },
+    {
+      "id":112,
+      "name_category": "Kakuzu",
+      "title":"Kakuzu 2",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kakuzu/2.jpg"
+    },
+    {
+      "id":113,
+      "name_category": "Kakuzu",
+      "title":"Kakuzu 3",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kakuzu/3.jpg"
+    },
+    {
+      "id":114,
+      "name_category": "Kakuzu",
+      "title":"Kakuzu 4",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kakuzu/4.jpg"
+    },
+    {
+      "id":115,
+      "name_category": "Kakuzu",
+      "title":"Kakuzu 5",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kakuzu/5.jpg"
+    },
+    {
+      "id":116,
+      "name_category": "Kakuzu",
+      "title":"Kakuzu 6",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kakuzu/6.jpg"
+    },
+    {
+      "id":117,
+      "name_category": "Kakuzu",
+      "title":"Kakuzu 7",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kakuzu/7.jpg"
+    },
+    {
+      "id":118,
+      "name_category": "Kakuzu",
+      "title":"Kakuzu 8",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kakuzu/8.jpg"
+    },
+    {
+      "id":119,
+      "name_category": "Kakuzu",
+      "title":"Kakuzu 9",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Kakuzu/9.jpg"
+    },
+    {
+      "id":120,
+      "name_category": "Kakuzu",
+      "title":"Kakuzu 10",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/kakuzu/10.jpg"
+    },
+
+
+
+
+    {
+      "id":121,
+      "name_category": "Pain",
+      "title":"Pain 1",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Pain/1.jpg"
+    },
+    {
+      "id":122,
+      "name_category": "Pain",
+      "title":"Pain 2",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Pain/2.jpg"
+    },
+    {
+      "id":123,
+      "name_category": "Pain",
+      "title":"Pain 3",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Pain/3.jpg"
+    },
+    {
+      "id":124,
+      "name_category": "Pain",
+      "title":"Pain 4",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Pain/4.jpg"
+    },
+    {
+      "id":125,
+      "name_category": "Pain",
+      "title":"Pain 5",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Pain/5.jpg"
+    },
+    {
+      "id":126,
+      "name_category": "Pain",
+      "title":"Pain 6",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Pain/6.jpg"
+    },
+    {
+      "id":127,
+      "name_category": "Pain",
+      "title":"Pain 7",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Pain/7.png"
+    },
+    {
+      "id":128,
+      "name_category": "Pain",
+      "title":"Pain 8",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Pain/8.jpg"
+    },
+    {
+      "id":129,
+      "name_category": "Pain",
+      "title":"Pain 9",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Pain/9.jpg"
+    },
+    {
+      "id":130,
+      "name_category": "Pain",
+      "title":"Pain 10",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/pain/10.jpg"
+    },
+
+
+
+    {
+      "id":131,
+      "name_category": "Nagato",
+      "title":"Nagato 1",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Nagato/1.jpg"
+    },
+    {
+      "id":132,
+      "name_category": "Nagato",
+      "title":"Nagato 2",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Nagato/2.jpg"
+    },
+    {
+      "id":133,
+      "name_category": "Nagato",
+      "title":"Nagato 3",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Nagato/3.jpg"
+    },
+    {
+      "id":134,
+      "name_category": "Nagato",
+      "title":"Nagato 4",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Nagato/4.jpg"
+    },
+    {
+      "id":135,
+      "name_category": "Nagato",
+      "title":"Nagato 5",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Nagato/5.jpg"
+    },
+    {
+      "id":136,
+      "name_category": "Nagato",
+      "title":"Nagato 6",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Nagato/6.jpg"
+    },
+    {
+      "id":137,
+      "name_category": "Nagato",
+      "title":"Nagato 7",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Nagato/7.jpg"
+    },
+    {
+      "id":138,
+      "name_category": "Nagato",
+      "title":"Nagato 8",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Nagato/8.jpg"
+    },
+    {
+      "id":139,
+      "name_category": "Nagato",
+      "title":"Nagato 9",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Nagato/9.jpg"
+    },
+    {
+      "id":140,
+      "name_category": "Nagato",
+      "title":"Nagato 10",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Nagato/10.jpg"
+    },
+
+
+
+    {
+      "id":151,
+      "name_category": "Konan",
+      "title":"Konan 1",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Konan/1.jpg"
+    },
+    {
+      "id":152,
+      "name_category": "Konan",
+      "title":"Konan 2",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Konan/2.jpg"
+    },
+    {
+      "id":153,
+      "name_category": "Konan",
+      "title":"Konan 3",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Konan/3.jpg"
+    },
+    {
+      "id":154,
+      "name_category": "Konan",
+      "title":"Konan 4",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Konan/4.jpg"
+    },
+    {
+      "id":155,
+      "name_category": "Konan",
+      "title":"Konan 5",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Konan/5.jpg"
+    },
+    {
+      "id":156,
+      "name_category": "Konan",
+      "title":"Konan 6",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Konan/6.jpg"
+    },
+    {
+      "id":157,
+      "name_category": "Konan",
+      "title":"Konan 7",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Konan/7.jpg"
+    },
+    {
+      "id":158,
+      "name_category": "Konan",
+      "title":"Konan 8",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Konan/8.jpg"
+    },
+    {
+      "id":159,
+      "name_category": "Konan",
+      "title":"Konan 9",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Konan/9.jpg"
+    },
+    {
+      "id":160,
+      "name_category": "Konan",
+      "title":"Konan 10",
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Konan/10.jpg"
+    }
+  
+  ]
+}
