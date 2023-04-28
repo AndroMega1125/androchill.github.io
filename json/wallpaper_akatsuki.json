@@ -4,10 +4,10 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
 
-      "main_ads_banner": "ca-app-pub-3197227035069915/5606852189x",
-      "main_ads_intertitial":"ca-app-pub-3197227035069915/1291933151x",
-      "main_ads_natives":"ca-app-pub-3197227035069915/1215911532x",
-      "main_ads_rewards":"ca-app-pub-3197227035069915/2980688844x",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110x",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917x",
 
       "backup_ads_banner":"82a1b9b48d111630",
       "backup_ads_intertitial":"96719bf0cc9eada8",
@@ -195,7 +195,7 @@
       "id":4,
       "name_category": "Akatsuki",
       "title":"Akatsuki 4",
-      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/4.png"
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Akatsuki/4.jpg"
     },
     {
       "id":5,
@@ -378,7 +378,7 @@
       "id":34,
       "name_category": "Itachi",
       "title":"Itachi 4",
-      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/4.png"
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/4.jpg"
     },
     {
       "id":35,
@@ -420,7 +420,7 @@
       "id":41,
       "name_category": "Itachi",
       "title":"Itachi 11",
-      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/11.png"
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/11.jpg"
     },
     {
       "id":42,
@@ -438,7 +438,7 @@
       "id":44,
       "name_category": "Itachi",
       "title":"Itachi 14",
-      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/14.png"
+      "image":"https://andromega1125.github.io/wallpaper/Akatsuki/Itachi/14.jpg"
     },
     {
       "id":45,
